@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "949292064255",
+    "firebase_url": "https://ristorante-francesco-bitonti-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ristorante-francesco-bitonti",
+    "storage_bucket": "ristorante-francesco-bitonti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949292064255:android:dec442848de5cd016f9bca",
+        "android_client_info": {
+          "package_name": "com.example.ristoranteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4ejq7GgW2f0GwUKUrQ6760TZy9hVJUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
